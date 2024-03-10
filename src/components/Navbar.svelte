@@ -26,7 +26,7 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-link active" aria-current="page" href="#">Home</a>
-        <a class="nav-link active" aria-current="page" href="#">About</a>
+        <a class="nav-link active" aria-current="page" href="#">How does it work?</a>
         <a class="nav-link active" aria-current="page" href="https://github.com/sahil-raj/nonAnom">Github</a>
       </div>
     </div>
